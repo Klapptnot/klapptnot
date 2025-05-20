@@ -1,19 +1,5 @@
 <!-- Hopefully GitHub adds _blank support, and I won't have to update that -->
 
-<div align="center">
-  <h1>Hi there! I'm Klapptnot</h1>
-  <p><strong>Backend Developer</strong> <strong>Open Source Enthusiast</strong> <strong>Tech Explorer</strong></p>
-  <a href="https://twitter.com/klapptnot" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1e1e2e?style=for-the-badge&logo=X&logoColor=cba6f7" alt="Twitter Badge"/>
-  </a>
-</div>
-
-<div align="center">
-  <p>
-  I'm a dedicated software developer with a focus on building high-performance, low-level systems.</br>I take pride in crafting clean, well-architected solutions that prioritize simplicity and efficiency.</br>Right now, I'm diving into systems programming projects and streamlining workflows through automation.
-  </p>
-</div>
-
 <hr style="width: 100%; margin: 20px 0; height: 1px">
 
 <div align="center">
